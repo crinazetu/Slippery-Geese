@@ -1,0 +1,33 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "68e1c64c-1b53-42cf-b6d1-8553b9eceef7",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "a8a3356e-2ef8-42dc-bab5-135fd2037b51",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ae2a12ff-451d-40f8-b9ab-a0c0294b8e64",
+                    "path": "d",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
